@@ -1,0 +1,75 @@
+.Image-Area{
+ 
+top: 5rem;
+}
+.Hero-Section{
+    display: flex;
+
+}
+.login-section{
+   border: 1px solid rgb(13, 13, 85);
+  
+   width: 350px;
+   left: 0px;
+   top: 0px;
+   border-radius: 32px;
+   align-items: center;
+   padding: 0rem 1rem 0rem 4rem;
+   
+
+/* Grayscale / Off-white */
+
+
+border-radius: 32px;
+}
+.line{
+    width: 47px;
+height: 9px;
+left: 895px;
+top: 272px;
+
+/* Primary/Default */
+
+background: #E8505B;
+border-radius: 300px;
+}
+.email-input,.password-section{
+    
+        background-color: #EFF0F7;
+        display: flex;
+      align-items: center;
+      width: 55%;
+        margin:1rem 0rem;
+        border-radius: 16px;
+        i {
+          padding-left: 25px;
+          font-size: 15px;
+          background-color: #eff0f7;
+          
+      }
+       }
+       input{
+          background: #eff0f7;
+          border: none;
+          outline: none;
+          padding: 8px;
+          border-radius: 16px;
+      
+          
+       }
+.text-forget{
+    display: flex;
+    justify-content: flex-end;
+}
+.login,.account{
+    text-align: center;
+    padding-top: 12px;
+}
+.btn-login{
+   background-color: #E8505B;
+   padding:0.8rem 5rem;
+   color: white;
+   border: none;
+   border-radius: 40px;
+
+}

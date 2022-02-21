@@ -1,0 +1,59 @@
+.Navbar-container{
+    padding: 1rem 0rem;
+    width: 90%;
+    margin:0 auto;
+}
+ .navbar{
+     display:flex;
+     justify-content: space-around;
+ }
+ .Navlinks{
+     display: flex;
+ }
+ .Navlink{
+     display: flex;
+     padding: 0rem 2rem;
+ }
+ .logo{
+   
+    
+    color: #E8505B;
+    
+ }
+ .input-container{
+  background-color: #EFF0F7;
+  display: flex;
+align-items: center;
+border-radius: 14px;
+ 
+  i {
+    padding-left: 25px;
+    font-size: 15px;
+    background-color: #eff0f7;
+    
+}
+ }
+ input{
+    background: #eff0f7;
+    border: none;
+    outline: none;
+    padding: 8px;
+    border-radius: 14px;
+    
+
+    
+ }
+ .registerBtn{
+     color: #EFF0F7;
+    background: #4E4B66;
+    border-radius: 40px;
+    width: 120px;
+// height: 40px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 8px 24px;
+border: none;
+outline: none;
+ }
